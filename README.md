@@ -1,2 +1,3 @@
-# buzzfeed-clone-angular
-buzzfeed-clone-angular dio
+## Projeto Clone BuzzFeed DIO
+
+![Preview](./src/assets/images/preview.jfif)
